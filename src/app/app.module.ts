@@ -76,7 +76,6 @@ import { LoadingComponent } from './loading/loading.component';
   providers: [
   ],
   bootstrap: [AppComponent],
-  entryComponents: [CourseDialogComponent]
 })
 export class AppModule {
 }
